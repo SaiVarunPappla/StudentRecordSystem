@@ -26,15 +26,6 @@ java StudentRecordSystem
 
 Technologies Used :
 
-Java
-ArrayList
-OOP Concepts
-
-Author
-Sai Varun Pappla
-
-```bash
-git add README.md
-git commit -m "Added README file"
-git push
-```
+1)Java
+2)ArrayList
+3)OOP Concepts
