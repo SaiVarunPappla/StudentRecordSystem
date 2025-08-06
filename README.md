@@ -33,8 +33,6 @@ OOP Concepts
 Author
 Sai Varun Pappla
 
-Then stage & commit it:
-
 ```bash
 git add README.md
 git commit -m "Added README file"
